@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CPP Review/CPP Review.vcxproj" Id="76517848-b6e3-4160-b800-7e8736a2f9f6" />
+  <Project Path="Review Lecture/Review Lecture.vcxproj" Id="9bf04470-7a18-441d-ad3e-2d3d9f898d8e" />
+</Solution>
